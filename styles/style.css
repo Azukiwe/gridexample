@@ -1,0 +1,16 @@
+/*UNIVERSSAL SYTYLING*/
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*HEADER AND FOOTER*/
+header,footer{
+    background-color:deeppink
+     ;
+}
+main{
+    background-color: plum;
+}
